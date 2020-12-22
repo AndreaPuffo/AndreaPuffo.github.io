@@ -1,6 +1,6 @@
 ## About Me
 
-I am currently a doctoral student (DPhil) at the University of Oxford, where I am a member of the OxCaV Group, supervised by Professor Alessandro Abate. Previously, I worked at INRIA Rennes as a research engineer. I studied Control Engineering at the University of Padova, where I graduated with honors (magna cum laude) in 2015. I recently visited the ERATO MMSD Group at NII Tokyo.
+I am currently a doctoral student (DPhil) at the University of Oxford, where I am a member of the [OxCaV](https://www.oxcav.org/) Group, supervised by Professor Alessandro Abate. Previously, I worked at INRIA Rennes as a research engineer. I studied Control Engineering at the University of Padova, where I graduated with honors (magna cum laude) in 2015. I recently visited the ERATO MMSD Group at NII Tokyo.
 
 ## Research Interests
 
@@ -14,6 +14,6 @@ A full list of publications is available here.
 
 ## Teaching
 
-    (2016-2019) - Introduction to Modern Control - TA for AIMS CDT
-    (2019-2020) - Verification of Neural Networks - TA for B1 Engineering
-    (2019-2020) - Dynamics Laboratory - TA for B1 Engineering
+    * (2016-2019) - Introduction to Modern Control : TA for AIMS CDT
+    * (2019-2020) - Verification of Neural Networks : TA for B1 Engineering
+    * (2019-2020) - Dynamics Laboratory : TA for B1 Engineering
