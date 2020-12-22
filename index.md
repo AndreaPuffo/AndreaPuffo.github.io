@@ -14,6 +14,6 @@ A full list of publications is available here.
 
 ## Teaching
 
-    * (2016-2019) - Introduction to Modern Control : TA for AIMS CDT
-    * (2019-2020) - Verification of Neural Networks : TA for B1 Engineering
-    * (2019-2020) - Dynamics Laboratory : TA for B1 Engineering
+    * (2016-2019) -- Introduction to Modern Control : TA for AIMS CDT
+    * (2019-2020) -- Verification of Neural Networks : TA for B1 Engineering
+    * (2019-2020) -- Dynamics Laboratory : TA for B1 Engineering
