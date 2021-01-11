@@ -16,7 +16,7 @@ _Automated Formal Synthesis of Barrier Certificates for Dynamical Systems_,
 [arXiv](https://arxiv.org/abs/2007.03251)
 
 A.Peruffo, A. Edwards, D. Ahmed, M. Giacobbe and A. Abate, 
-_FoSSiL: Formal Synthesis of Lyapunov and Barrier Neural Networks_, \\
+_FoSsiL: A Software Tool for the Formal Synthesis of Lyapunov Functions and Barrier Certificates using Neural Networks_, \\
 **Accepted for publication in HSCC 2021**.
 
 ## 2020
@@ -24,7 +24,7 @@ _FoSSiL: Formal Synthesis of Lyapunov and Barrier Neural Networks_, \\
 D. Ahmed, A. Peruffo and A. Abate, 
 _Automated and Sound Synthesis of Lyapunov Functions with SMT Solvers_, in 
 Tools and Algorithms for Construction and Analysis of Systems (TACAS) 2020. \\
-[arXix](https://arxiv.org/abs/2007.10865)  [publisher](https://link.springer.com/chapter/10.1007%2F978-3-030-45190-5_6)
+[arXiv](https://arxiv.org/abs/2007.10865)    [publisher](https://link.springer.com/chapter/10.1007%2F978-3-030-45190-5_6)
 
 A. Peruffo, E. Guiu, P. Panciatici and A. Abate, 
 _Aggregation and Control of a Heterogeneous Population of Solar Panels Over the Grid Frequency_, in IEEE Transactions on Control Systems Technology, 2020. \\
@@ -50,7 +50,7 @@ _Impact of Solar Panels and Cooling Devices on Frequency Control After a Generat
 
 A. Peruffo, A. Abate, E. Guiu and P. Panciatici, 
 _Synchronous Frequency Grid Dynamics in the Presence of a Large-Scale Population of Photovoltaic Panels_, in PSCC 2018. \\
-[publisher](https://doi.org/10.23919/PSCC.2018.8442747).
+[publisher](https://doi.org/10.23919/PSCC.2018.8442747)
 
 ## 2017
 
